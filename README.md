@@ -20,7 +20,9 @@ The sales representative with the highest transaction count but not the highest 
 Based on the yearly performance, there is consistent decline in revenue over the years.
 ![Representative Table](images/yearly_performance.png)
 
-Total revenue per year, 2010 Revenue: 104,720
+Total revenue per year, 
+                        
+                        2010 Revenue: 104,720
 
                         2011 Revenue: 83,600
                         
