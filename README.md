@@ -21,8 +21,11 @@ Based on the yearly performance, there is consistent decline in revenue over the
 ![Representative Table](images/yearly_performance.png)
 
 Total revenue per year, 2010 Revenue: 104,720
+
                         2011 Revenue: 83,600
+                        
                         2012 Revenue: 80,960
+
 This indicate product demand and sales performance is declining, suggesting that the company should reduce staff in 2013, and focus on improving the value of their product and training their sales reps on high-value selling techniques. This will increase revenue per transaction, not just the sales volume.
 
 
